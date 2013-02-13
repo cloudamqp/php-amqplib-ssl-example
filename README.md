@@ -1,6 +1,6 @@
-= SSL with the php-amqplib
+# SSL with the php-amqplib
 
-== Install
+## Install dependencies
 
 Install composer:
 
@@ -14,7 +14,7 @@ Run composer:
 $ php composer.phar install
 ```
 
-Run the the app: 
+## Execute 
 
 ```
 $ export CLOUDAMQP_URL=amqps://user:pass@host.cloudamqp.com/vhost
