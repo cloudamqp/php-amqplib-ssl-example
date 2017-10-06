@@ -1,5 +1,7 @@
 # SSL with the php-amqplib
 
+*This repo is not up-to-date, please see https://github.com/cloudamqp/php-amqplib-example*
+
 ## Install dependencies
 
 Install composer:
